@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
  * {
-
     padding: 0px;
     margin: 0px;
     color: white;
@@ -101,11 +100,10 @@ margin: 60px 5px 5px 155px;
    }
 .form-three-label input {
  margin: 0px 0px 5px 155px;
-      padding: 5px 310px 5px 10px;
-      font-size: larger;
-      border: 0.1px solid rgb(86, 84, 84);
+ padding: 5px 310px 5px 10px;
+ font-size: larger;
+ border: 0.1px solid rgb(86, 84, 84);
       border-radius: 10px;
-
       }
 
       .form-four-label h4 {
@@ -130,9 +128,9 @@ margin: 60px 5px 5px 155px;
                   border-radius: 10px;
 
                   }
-                  .form-six-label h4 {
-                     margin: 30px 5px 0px 155px;
-                     }
+ .form-six-label h4 {
+ margin: 30px 5px 0px 155px;
+     }
                      .form-six-label input {
                         margin: 0px 0px 5px 155px;
                         padding: 5px 310px 100px 10px;
@@ -141,10 +139,10 @@ margin: 60px 5px 5px 155px;
                         border-radius: 10px;
 
                         }
-                        .form-seven-label h4 {
-                           margin: 30px 100px 0px 155px;
-                           }
-                           .form-seven-label input {
+  .form-seven-label h4 {
+  margin: 30px 100px 0px 155px;
+        }
+  .form-seven-label input {
                               margin: 0px 0px 5px 155px;
                               padding: 5px 310px 5px 10px;
                               font-size: larger;
@@ -153,16 +151,16 @@ margin: 60px 5px 5px 155px;
 
                               }
 
-                              .form-eight-label h4 {
-                                 margin: 50px 100px 10px 150px;
-                              }
+ .form-eight-label h4 {
+ margin: 50px 100px 10px 150px;
+    }
 
-                              .eight-input {
-                                 margin: 0px 100px 10px 150px;
-                              }
-                              .eight-input p {
-                                 margin: -20px 100px 10px 30px;
-                              }
+ .eight-input {
+  margin: 0px 100px 10px 150px;
+           }
+   .eight-input p {
+   margin: -20px 100px 10px 30px;
+              }
 
  .register-button button {
 font-weight: 600;
