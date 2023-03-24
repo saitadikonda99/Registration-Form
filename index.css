@@ -216,7 +216,7 @@ padding: 10px 100px 10px 100px;
 
 /* mobile view */
 
-@media screen and (max-width: 600px) {
+@media all and (max-width: 500px) {
     * {
         margin: 0;
         padding: 0;
