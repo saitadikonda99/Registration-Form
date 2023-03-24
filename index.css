@@ -9,12 +9,12 @@
 
  .body {
     background-color: black;
-
  }
 
  .container {
     display: inline;
  }
+
  .navigation {
     border: 0.1px solid rgb(86, 84, 84);
     width: 100%;
@@ -27,9 +27,9 @@
  }
 
  .nav-two p {
-         font-size: 40px;
-         color: gray;
-         margin: -50px 0px 0px 220px;
+   font-size: 40px;
+   color: gray;
+   margin: -50px 0px 0px 220px;
  }
 
  .nav-two h2 {
@@ -110,46 +110,45 @@ margin: 60px 5px 5px 155px;
   margin: 30px 5px 0px 155px;
      }
  .form-four-label input {
-            margin: 0px 0px 5px 155px;
-            padding: 5px 310px 5px 10px;
-            font-size: larger;
-            border: 0.1px solid rgb(86, 84, 84);
-            border-radius: 10px;
-
-            }
-            .form-five-label h4 {
+    margin: 0px 0px 5px 155px;
+  padding: 5px 310px 5px 10px;
+   font-size: larger;
+ border: 0.1px solid rgb(86, 84, 84);
+ border-radius: 10px;
+ }
+  .form-five-label h4 {
                margin: 30px 5px 0px 155px;
                }
-               .form-five-label input {
-                  margin: 0px 0px 5px 155px;
-                  padding: 5px 310px 5px 10px;
-                  font-size: larger;
-                  border: 0.1px solid rgb(86, 84, 84);
-                  border-radius: 10px;
 
-                  }
+ .form-five-label input {
+   margin: 0px 0px 5px 155px;
+   padding: 5px 310px 5px 10px;
+    font-size: larger;
+   border: 0.1px solid rgb(86, 84, 84);
+    border-radius: 10px;
+   }
+
  .form-six-label h4 {
  margin: 30px 5px 0px 155px;
      }
  .form-six-label input {
   margin: 0px 0px 5px 155px;
     padding: 5px 310px 100px 10px;
-                        font-size: larger;
-                        border: 0.1px solid rgb(86, 84, 84);
-                        border-radius: 10px;
+   font-size: larger;
+  border: 0.1px solid rgb(86, 84, 84);
+   border-radius: 10px;
+ }
 
-                        }
   .form-seven-label h4 {
   margin: 30px 100px 0px 155px;
         }
   .form-seven-label input {
-                              margin: 0px 0px 5px 155px;
-                              padding: 5px 310px 5px 10px;
-                              font-size: larger;
-                              border: 0.1px solid rgb(86, 84, 84);
-                              border-radius: 10px;
-
-                              }
+      margin: 0px 0px 5px 155px;
+      padding: 5px 310px 5px 10px;
+      font-size: larger;
+      border: 0.1px solid rgb(86, 84, 84);
+      border-radius: 10px;
+ }
 
  .form-eight-label h4 {
  margin: 50px 100px 10px 150px;
