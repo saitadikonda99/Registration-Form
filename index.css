@@ -106,10 +106,10 @@ margin: 60px 5px 5px 155px;
       border-radius: 10px;
       }
 
-      .form-four-label h4 {
-         margin: 30px 5px 0px 155px;
-         }
-         .form-four-label input {
+ .form-four-label h4 {
+  margin: 30px 5px 0px 155px;
+     }
+ .form-four-label input {
             margin: 0px 0px 5px 155px;
             padding: 5px 310px 5px 10px;
             font-size: larger;
@@ -131,9 +131,9 @@ margin: 60px 5px 5px 155px;
  .form-six-label h4 {
  margin: 30px 5px 0px 155px;
      }
-                     .form-six-label input {
-                        margin: 0px 0px 5px 155px;
-                        padding: 5px 310px 100px 10px;
+ .form-six-label input {
+  margin: 0px 0px 5px 155px;
+    padding: 5px 310px 100px 10px;
                         font-size: larger;
                         border: 0.1px solid rgb(86, 84, 84);
                         border-radius: 10px;
